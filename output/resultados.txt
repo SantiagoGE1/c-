@@ -1,0 +1,5 @@
+=== RESULTADOS DEL JUEGO ===
+Rondas completadas: 10
+Oro total: 100
+Oro recuperado: 0
+Ladrones capturados: 0
